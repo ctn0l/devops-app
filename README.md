@@ -73,4 +73,5 @@ protetto e non si tocca mai direttamente.
 - Jacopo Camplone
 - Bruno Barbieri
 - Leonardo Cottino
+- Giuseppe Verdi
 - _(aggiungi qui il tuo nome)_
